@@ -1,0 +1,10 @@
+{
+	"parameters": {
+		"bucket": "webtrends",
+		"host": "localhost",
+		"username": "test",
+		"#password": "test",
+		"folder": "/files",
+		"file": "PagesViewed.csv"
+	}
+}
